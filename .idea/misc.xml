@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$" />
+      <file path="$PROJECT_DIR$/CGImysql" />
+      <file path="$PROJECT_DIR$/http" />
+      <file path="$PROJECT_DIR$/lock" />
+      <file path="$PROJECT_DIR$/log" />
+      <file path="$PROJECT_DIR$/threadpool" />
+      <file path="$PROJECT_DIR$/timer" />
+    </sourceRoots>
+  </component>
+</project>
